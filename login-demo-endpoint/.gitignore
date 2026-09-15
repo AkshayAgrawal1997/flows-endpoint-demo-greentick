@@ -1,0 +1,5 @@
+private.pem
+public.pem
+.env
+login-sessions.json
+node_modules
